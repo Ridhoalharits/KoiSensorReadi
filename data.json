@@ -1,0 +1,36 @@
+{
+  "cSFGHidGb4gzLBalujMaowdFDGG2": {
+    "HistoryData": {
+      "2024-06-10 08:00:00": "",
+      "2024-06-10 10:00:00": {
+        "Amonia": "",
+        "Suhu": "",
+        "Tds": "",
+        "ph": "",
+        "turbidity": ""
+      },
+      "2024-06-10 12:00:00": "",
+      "2024-06-10 14:00:00": "",
+      "2024-06-10 16:00:00": "",
+      "2024-06-10 18:00:00": ""
+    },
+    "Sensors": {
+      "Amonia": "0.09",
+      "AmoniaPercentage": "45.00",
+      "Suhu": "26.53",
+      "SuhuPercentage": "50.00",
+      "Tds": "340.00",
+      "TdsPercentage": "68.00",
+      "ph": "6.40",
+      "phPercentage": "42.00",
+      "turbidity": "32.00",
+      "turbidityPercentage": "84.00"
+    },
+    "fcmToken": "fMxdX96KTHynQRKPFK7NKa:APA91bG1dV3fdvWonooidQqA7vPZwJ9SLKRQCBMs7oili0Z2Q8CApPC9_DI4n-6TIscz8Zju4JInxZtP1oWIbQfrB-vz4n3H9BE02GYNemxfdnesekkwfHGhNV0LiQKqpI0rCbNNuweo",
+    "relayState": {
+      "chiller": "0",
+      "heater": "0",
+      "waterpump": "0"
+    }
+  }
+}
