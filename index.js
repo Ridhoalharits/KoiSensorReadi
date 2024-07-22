@@ -9,7 +9,7 @@ const pool = new Pool({
   connectionString:
     "postgres://default:xnqLSI9kFY8a@ep-ancient-cake-a1sq6ks9-pooler.ap-southeast-1.aws.neon.tech:5432/verceldb?sslmode=require",
 });
-app.post("/", (req, res) => {
+app.get("/", (req, res) => {
   res.send("standby");
 });
 
